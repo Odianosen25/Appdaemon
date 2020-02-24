@@ -24,6 +24,7 @@ Change Log
 - Admin UI now breaks out App instance and lifetime callback stats separately
 - Convert admin and dashboard to get_state from stream
 - Increase default work factor for password hashes to 12
+- Allow to get all events using standard callback, by specifing the `global_callback` switch
 
 **Fixes**
 
